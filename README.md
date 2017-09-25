@@ -1,6 +1,8 @@
 Multisignature Wallet
 ===================
 
+[![Join the chat at https://gitter.im/Gnosis-Multisig-Wallet/Lobby](https://badges.gitter.im/Gnosis-Multisig-Wallet/Lobby.svg)](https://gitter.im/Gnosis-Multisig-Wallet/Lobby?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 Allows multiple parties to agree on transactions before execution. Allows to add and remove owners and update the number of required confirmations.
 
 Install
